@@ -10,6 +10,11 @@ This project showcases my experience with various Azure services for data engine
 - **Azure Databricks:** Utilized for data transformation and running machine learning models.
 - **Azure Synapse Analytics:** Used for running SQL queries and performing analytics on the data.
 
+![Screenshot (669)](https://github.com/sudhxan/tokyo-olympics/assets/80266211/a4a04e18-644a-4fe9-aeaa-1ff37b423d5a)
+
+
+![Screenshot (684)](https://github.com/sudhxan/tokyo-olympics/assets/80266211/9537c12e-5d9a-4594-9378-2d35c70ecacf)
+
 ## Project Structure
 - **ETL Pipeline:** Created using Azure Data Factory to extract data, transform it using Databricks, and load it into Data Lake Storage.
 - **Web Application:** Hosted on Azure App Services, providing interactive dashboards for data visualization.
